@@ -1,8 +1,8 @@
-NAME,|V|,|E|,TW
-custom0001.hcp,360,566,16
-custom0002.hcp,600,886,18
-custom0003.hcp,700,1139,20
-custom0004.hcp,420,692,20
-custom0005.hcp,700,1397,17
-custom0006.hcp,600,1120,15
-custom0007.hcp,360,655,15
+NAME,|V|,|E|,MINDEG,AVGDEG,MAXDEG,GIRTH,DIAM,TW
+custom0001.hcp,360,566,2,3.14,7,3,33,16
+custom0002.hcp,600,886,2,2.95,7,3,54,18
+custom0003.hcp,700,1139,2,3.25,8,3,54,20
+custom0004.hcp,300,681,2,4.54,6,3,52,20
+custom0005.hcp,700,1397,2,3.99,8,3,53,17
+custom0006.hcp,600,1120,2,3.73,8,3,53,15
+custom0007.hcp,360,655,2,3.64,8,3,34,15
