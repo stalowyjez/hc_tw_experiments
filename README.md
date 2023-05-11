@@ -1,4 +1,4 @@
-# Finding Hamiltonian Cycle in Graphs of Bounded Treewidth: Experimental Evaluation
+# Finding Hamiltonian Cycle in Graphs of Bounded Treewidth
 
 The following repository is attachment to our article with the same title. It contains some helpful to reproduce our experiments described in that paper, in particular our implementations, description of the data sets and tree decompositions for instances with greater treewidth.
 
